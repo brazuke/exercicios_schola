@@ -17,11 +17,9 @@
     border-style: solid;
     border-radius: 20%;
   }
-
   .smaller-image {
     width: 70px;
   }
-
   .silver-background {
     background-color: silver;
     width: 750px;
