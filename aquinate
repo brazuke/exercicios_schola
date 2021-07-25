@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+  h1 {
+    font-family: monospace;
+  }
+  p {
+    font-size: 20px;
+  }
+  li {
+    font-size: 18px;
+  }
+  .thick-golden-border {
+    border-color: goldenrod;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20%;
+  }
+
+  .smaller-image {
+    width: 70px;
+  }
+
+  .silver-background {
+    background-color: silver;
+    width: 750px;
+  }
+  .justify {
+   text-align: justify;
+  }
+  </style>
+  <title>Aquinate</title>
+ </head>
+ <body>
+  <h1><img class="smaller-image thick-golden-border" src="/imagens/saotomas.jpg" alt="sao tomas"></a> Dezesseis conselhos de São Tomás de <br> Aquino para adquirir o tesouro da ciência. </h1>
+  <div class="silver-background">
+   <p class="justify">Como me perguntaste, João, caríssimo irmão em Cristo, como deves estudar para adquirir o tesouro da ciência, eis os conselhos que te dou a esse respeito:</p>
+    <ol>
+     <li>Escolhas entrar no mar pelos regatos, não diretamente, pois é pelo que é fácil que convém chegar ao mais difícil. Este é, portanto, o meu conselho, e uma instrução para ti.</li>
+     <li>Quero que sejas lento para falar e lento para dirigir-te ao parlatório.</li>
+     <li>Guarda a pureza de consciência.</li>
+     <li>Nunca deixes de dedicar-te à oração.</li>
+     <li>Frequenta com amor tua cela, se queres ser introduzido na adega de vinhos.</li>
+     <li>Mostra-te amável com todos. </li>
+     <li>Não te preocupes com as ações dos outros.</li>
+     <li>Não sejas familiar demais com ninguém, pois o excesso de familiaridade engendra o desprezo e dá ocasião para afastar-se do estudo.</li>
+     <li>Não te envolvas de maneira alguma com as palavras e ações dos leigos.</li>
+     <li>Evita sobretudo os passeios inúteis.</li>
+     <li>Não deixes de imitar a conduta dos santos e dos homens de bem.</li>
+     <li>Não consideres de quem ouves as coisas, mas tudo o que se disser de bom, confia-o à tua memória.</li>
+     <li>Tudo que leres e ouvires, põe em prática, para o compreenderes.</li>
+     <li>Esclarece tuas dúvidas.</li>      
+     <li>Esforça-te para armazenar tudo que puderes na biblioteca do teu espírito, como quem enche um vaso.</li>
+     <li>Não busques o que está acima de ti.</li>
+    </ol>
+   <p class="justify">Se seguires este caminho, enquanto tiveres vida produzirás e multiplicarás folhas e frutos úteis na vinha do Senhor dos Exércitos.
+    Se praticares estes conselhos, poderás alcançar o que desejas. Adeus.</p>
+  </div>
+  <p>Para conhecer mais sobre a obra do Aquinate: <a href="https://corpusthomisticum.org" target="_blank">Corpus Thomisticum</a>.</p>
+  <p>Para conhecer grandes tomistas e receber auxílio nos estudos: <a href="https://discord.gg/BvuW4hGfaP" target="blank">Schola Caietani.</a><br>P.S.: Usei o link de invite apenas para fins didáticos, não publicarei algo assim sem a permissão da Gabriela.</p>
+  <br>
+  <h3>Isso foi útil para você?</h3> 
+  <form action="#" id="formulario-exemplo">
+   <label><input type="radio" name="sim"> Sim </label>
+   <label><input type="radio" name="sim"> Com certeza </label>
+   <input type="submit" value="Enviar">
+  </form>
+ </body>
+</html>
